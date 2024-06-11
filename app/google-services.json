@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "491461974041",
+    "project_id": "apna-khata-5c243",
+    "storage_bucket": "apna-khata-5c243.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491461974041:android:1d89109cee55ba4215b288",
+        "android_client_info": {
+          "package_name": "com.example.apna_khata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPOVc3bC8J_9DJUVTz6VWiCHOY5BfUbx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

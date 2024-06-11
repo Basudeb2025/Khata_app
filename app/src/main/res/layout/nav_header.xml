@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/holo_blue_light"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:layout_width="@dimen/_130sdp"
+        android:layout_height="@dimen/_125sdp"
+        android:src="@drawable/img"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Apna_Hiseb"
+        android:layout_marginStart="@dimen/_11sdp"
+        android:textSize="@dimen/_21sdp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        />
+</LinearLayout>
